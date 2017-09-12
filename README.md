@@ -1,1 +1,2 @@
-# Chat-Application
+# Chat
+NodeJS, Unity, Client-Server
